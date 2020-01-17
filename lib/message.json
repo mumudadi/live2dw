@@ -1,0 +1,182 @@
+{
+    "mouseover": [
+        {
+            "selector": "article a[href^='http']",
+            "text": ["要看看 <span style=\"color:#E06020;\">{text}</span> 么？"]
+        },
+		{
+			"selector": ".post-content .post-title",
+			"text": ["要看看文章 <span style=\"color:#E06020;\">{text}</span> 么？"]
+		},
+		{
+			"selector": ".cd-top",
+			"text": ["回到开始的地方吧~"]
+		},
+		{
+			"selector": ".lower",
+			"text": ["博主很穷的说，快资助一下吧~ヾ(≧∇≦*)ゝ"]
+		},
+		{
+			"selector": ".single-reward",
+			"text": ["喜欢这篇文章吗？，喜欢就打赏一下吧~<br> ヾ(≧∇≦*)ゝ"]
+		},
+		{
+			"selector": "#video-btn",
+			"text": ["想看视频吗？可以先从左下角关闭背景音乐呢~"]
+		},
+		{
+			"selector": "#video-stu",
+			"text": ["想暂停吗？"]
+		},
+		{
+			"selector": "#video-add",
+			"text": ["重新播放哦~"]
+		},
+        {
+            "selector": ".site-title",
+            "text": ["点击LOGO前往首页，想回到上一页可以使用浏览器的后退功能哦"]
+        },
+        {
+            "selector": ".wechat",
+            "text": ["微信~"]
+        },
+        {
+            "selector": ".guesswhat",
+            "text": ["想知道是什么吗？刮开试试呀O(∩_∩)O"]
+        },
+        {
+            "selector": ".aplayer-play",
+            "text": ["播放"]
+        },
+        {
+            "selector": ".aplayer-pause",
+            "text": ["暂停"]
+        },
+        {
+            "selector": ".hide-live2d",
+            "text": ["哼，你会后悔的！"]
+        },
+        {
+            "selector": ".switch-live2d",
+            "text": ["变装！"]
+        },
+        {
+            "selector": ".save-live2d",
+            "text": ["保持微笑就好了~！"]
+        },
+        {
+            "selector": "#open-poi-player",
+            "text": ["请问今天要来点音乐吗？"]
+        },
+        {
+            "selector": "#back-to-top",
+            "text": ["回到开始的地方吧"]
+        },
+        {
+            "selector": "#author",
+            "text": ["该怎么称呼你呢"]
+        },
+        {
+            "selector": "#email",
+            "text": ["留下你的邮箱，注意查看回复通知哦"]
+        },
+        {
+            "selector": "#url",
+            "text": ["你的家在哪里呢，好让我去参观参观"]
+        },
+        {
+            "selector": ".commentbody",
+            "text": ["认真填写哦，垃圾评论是禁止事项~<br><span style=\"color:#ff4000;\">图片仅支持BBCode！</span>"]
+        },
+        {
+            "selector": ".comt-smilies label",
+            "text": ["にっこにっこにー <img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_niconiconi.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\"><img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_reluctantly.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\"><img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_niconiconi_t.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\">"]
+        },
+        {
+            "selector": "#submit",
+            "text": ["要提交了吗，收到回复会有邮件通知的哦~"]
+        },
+		{
+            "selector": ".siren-checkbox-label",
+            "text": ["你该不会是机器人吧？"]
+        },
+        {
+            "selector": ".changeSkin-gear",
+            "text": ["可以换皮肤哦~"]
+        },
+        {
+            "selector": ".previous",
+            "text": ["看看上一篇文章吧"]
+        },
+        {
+            "selector": ".next",
+            "text": ["看看下一篇文章吧"]
+        },
+        {
+            "selector": ".dropdown-toggle",
+            "text": ["这里是菜单"]
+        },
+        {
+            "selector": "c-player a.play-icon",
+            "text": ["想要听点音乐吗"]
+        },
+        {
+            "selector": "c-player div.time",
+            "text": ["在这里可以调整<span style=\"color:#E06020;\">播放进度</span>呢"]
+        },
+        {
+            "selector": "c-player div.volume",
+            "text": ["在这里可以调整<span style=\"color:#E06020;\">音量</span>呢"]
+        },
+        {
+            "selector": "c-player div.list-button",
+            "text": ["<span style=\"color:#E06020;\">播放列表</span>里都有什么呢"]
+        },
+        {
+            "selector": "c-player div.lyric-button",
+            "text": ["有<span style=\"color:#E06020;\">歌词</span>的话就能跟着一起唱呢"]
+        },
+        {
+            "selector": "#white-bg",
+            "text": ["默认是纯洁的白色~~"]
+        },
+        {
+            "selector": "#gribs-bg",
+            "text": ["格子控！"]
+        },
+        {
+            "selector": "#sakura-bg",
+            "text": ["樱花飞舞~"]
+        },
+        {
+            "selector": "#KAdots-bg",
+            "text": ["小点点~"]
+        },
+        {
+            "selector": "#totem-bg",
+            "text": ["充满力量的橙色 (｡￫‿￩｡)"]
+        },
+        {
+            "selector": "#pixiv-bg",
+            "text": ["Pixiv的主题呢~ 什么？你还不知道 Pixiv 设置个人资料里可以换背景？！"]
+        },
+        {
+            "selector": "#bing-bg",
+            "text": ["必应每日图片的说~~"]
+        },
+        {
+            "selector": "#dark-bg",
+            "text": ["关灯！"]
+        },
+        {
+            "selector": ".prpr #live2d",
+            "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！", "么么哒~ (*･´ω`･)っ"]
+        }
+    ],
+    "click": [
+        {
+            "selector": ".prpr #live2d",
+            "text": ["是…是不小心碰到了吧", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110吗？这里有个变态一直在摸我 (ó﹏ò｡)"]
+        }
+    ]
+}
