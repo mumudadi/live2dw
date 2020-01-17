@@ -169,13 +169,13 @@
             "text": ["关灯！"]
         },
         {
-            "selector": ".prpr #live2d",
+            "selector": ".live2d-widget-container canvas",
             "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！", "么么哒~ (*･´ω`･)っ"]
         }
     ],
     "click": [
         {
-            "selector": ".prpr #live2d",
+            "selector": ".live2d-widget-container canvas",
             "text": ["是…是不小心碰到了吧", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110吗？这里有个变态一直在摸我 (ó﹏ò｡)"]
         }
     ]
