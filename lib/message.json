@@ -2,11 +2,11 @@
     "mouseover": [
         {
             "selector": "article a[href^='http']",
-            "text": ["要看看 <span style=\"color:#E06020;\">{text}</span> 么？"]
+            "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
         },
 		{
 			"selector": ".post-content .post-title",
-			"text": ["要看看文章 <span style=\"color:#E06020;\">{text}</span> 么？"]
+			"text": ["要看看文章 <span style=\"color:#0099cc;\">{text}</span> 么？"]
 		},
 		{
 			"selector": ".cd-top",
@@ -122,19 +122,19 @@
         },
         {
             "selector": "c-player div.time",
-            "text": ["在这里可以调整<span style=\"color:#E06020;\">播放进度</span>呢"]
+            "text": ["在这里可以调整<span style=\"color:#0099cc;\">播放进度</span>呢"]
         },
         {
             "selector": "c-player div.volume",
-            "text": ["在这里可以调整<span style=\"color:#E06020;\">音量</span>呢"]
+            "text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"]
         },
         {
             "selector": "c-player div.list-button",
-            "text": ["<span style=\"color:#E06020;\">播放列表</span>里都有什么呢"]
+            "text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"]
         },
         {
             "selector": "c-player div.lyric-button",
-            "text": ["有<span style=\"color:#E06020;\">歌词</span>的话就能跟着一起唱呢"]
+            "text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"]
         },
         {
             "selector": "#white-bg",
