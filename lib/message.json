@@ -1,7 +1,7 @@
 {
     "mouseover": [
         {
-            "selector": "article a[href^='http']",
+            "selector": "#menu-new a",
             "text": ["要看看 <span style=\"color:#33CCFF;\">{text}</span> 么？"]
         },
 		{
@@ -12,12 +12,16 @@
 			"selector": ".cd-top",
 			"text": ["回到开始的地方吧~"]
 		},
+        		{
+            			"selector": ".icon-search",
+            			"text": ["在找什么东西呢，需要帮忙吗？"]
+        		},
 		{
 			"selector": ".lower",
 			"text": ["博主很穷的说，快资助一下吧~ヾ(≧∇≦*)ゝ"]
 		},
 		{
-			"selector": ".single-reward",
+			"selector": ".reward-open",
 			"text": ["喜欢这篇文章吗？，喜欢就打赏一下吧~<br> ヾ(≧∇≦*)ゝ"]
 		},
 		{
@@ -73,27 +77,27 @@
             "text": ["回到开始的地方吧"]
         },
         {
-            "selector": "#author",
+            "selector": ".vnick",
             "text": ["该怎么称呼你呢"]
         },
         {
-            "selector": "#email",
+            "selector": ".vmail",
             "text": ["留下你的邮箱，注意查看回复通知哦"]
         },
         {
-            "selector": "#url",
+            "selector": ".vlink",
             "text": ["你的家在哪里呢，好让我去参观参观"]
         },
         {
-            "selector": ".commentbody",
+            "selector": "#veditor",
             "text": ["认真填写哦，垃圾评论是禁止事项~<br><span style=\"color:#ff4000;\">图片仅支持BBCode！</span>"]
         },
         {
-            "selector": ".comt-smilies label",
+            "selector": ".vemoji-btn",
             "text": ["にっこにっこにー <img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_niconiconi.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\"><img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_reluctantly.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\"><img src=\"https:\/\/cdn.2heng.xin\/wp-content\/themes\/Sakura\/images\/smilies\/icon_niconiconi_t.gif\" alt=\":huaji:\" class=\"wp-smiley\" style=\"height: 1.5em; max-height: 1.5em;\">"]
         },
         {
-            "selector": "#submit",
+            "selector": ".vsubmit",
             "text": ["要提交了吗，收到回复会有邮件通知的哦~"]
         },
 		{
@@ -117,23 +121,23 @@
             "text": ["这里是菜单"]
         },
         {
-            "selector": "c-player a.play-icon",
+            "selector": ".aplayer-icon",
             "text": ["想要听点音乐吗"]
         },
         {
-            "selector": "c-player div.time",
+            "selector": ".aplayer-bar-wrap",
             "text": ["在这里可以调整<span style=\"color:#33CCFF;\">播放进度</span>呢"]
         },
         {
-            "selector": "c-player div.volume",
+            "selector": ".aplayer-icon-volume-down",
             "text": ["在这里可以调整<span style=\"color:#33CCFF;\">音量</span>呢"]
         },
         {
-            "selector": "c-player div.list-button",
+            "selector": ".aplayer-icon-menu",
             "text": ["<span style=\"color:#33CCFF;\">播放列表</span>里都有什么呢"]
         },
         {
-            "selector": "c-player div.lyric-button",
+            "selector": ".aplayer-icon-lrc",
             "text": ["有<span style=\"color:#33CCFF;\">歌词</span>的话就能跟着一起唱呢"]
         },
         {
