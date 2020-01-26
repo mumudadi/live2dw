@@ -74,7 +74,7 @@
         },
         {
             "selector": "#author",
-            "text": ["该怎么称呼你呢"]
+            "text": ["该怎么称呼你呢？"]
         },
         {
             "selector": "#email",
